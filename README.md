@@ -1,4 +1,4 @@
-This webpage is a portfolio site that I created for myself.
+Hello, This webpage is a portfolio site that I created for myself.
 
 It includes my CV, web projects, technical skills, and contact information.
 
